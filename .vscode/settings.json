@@ -7,7 +7,9 @@
     "**/Thumbs.db": true,
     "**/CVS": true,
     "**/.ruby-lsp": true,
-    ".mule": true
+    ".mule": true,
+    "**/.rmv/catalog/**": true,
+    "*/_*": false
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
@@ -68,5 +70,6 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "[rocket-mvbasic]": {
     "editor.codeLens": false
-  }
+  },
+  "FSharp.suggestGitignore": false
 }

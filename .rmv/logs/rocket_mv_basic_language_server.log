@@ -613,3 +613,194 @@ Account{name=..., path=..., type=PREDICT}
 2025-03-10 23:14:24.103 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
 2025-03-10 23:14:24.103 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1) reload start
 2025-03-10 23:14:24.103 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1) load end
+2025-03-19 23:08:38.852 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-03-19 23:08:39.297 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-03-19 23:08:39.532 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-03-19 23:08:39.640 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-03-19 23:08:39.641 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/Lenovo%20LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop
+2025-03-19 23:08:39.643 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/Lenovo%20LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop
+2025-03-19 23:08:39.685 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/Lenovo%20LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop
+2025-03-19 23:08:39.687 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-03-19 23:08:39.687 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.rmv/config
+2025-03-19 23:08:39.687 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-03-19 23:08:39.688 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/Lenovo LOQ
+2025-03-19 23:08:39.721 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-03-19 23:08:39.723 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2025-03-19 23:08:39.725 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2025-03-19 23:08:39.728 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\Lenovo LOQ\OneDrive\Belgeler\GitHub\Satilik.Shop\.rmv\documentation\UNIVERSE\custom.json
+2025-03-19 23:08:39.729 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Lenovo LOQ\documentation\UNIVERSE\custom.json
+2025-03-19 23:08:39.753 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2025-03-19 23:08:39.759 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) load start
+2025-03-19 23:08:39.765 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2025-03-19 23:08:40.140 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2025-03-19 23:08:40.145 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2025-03-19 23:08:40.146 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2025-03-19 23:08:40.146 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2025-03-19 23:08:40.147 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) load end
+2025-03-19 23:08:40.149 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.CapabilityConfig - [framework:30010301]capabilities file(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/config/capability) doesn't exist or read error, default config will take effect
+2025-03-19 23:08:40.150 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200105]load all workspace folders successful
+2025-03-19 23:08:40.152 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010101]load account manager start
+2025-03-19 23:08:40.177 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.CacheAccountHandler - [client:40010102]load cache account: 
+2025-03-19 23:08:40.182 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ExternalAccountHandler - [client:40010103]load external account: 
+2025-03-19 23:08:40.262 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in Satilik.Shop account
+2025-03-19 23:08:40.269 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.272 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.275 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for Satilik.Shop, its period 5s 
+2025-03-19 23:08:40.275 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .git account
+2025-03-19 23:08:40.276 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.276 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.277 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .git, its period 5s 
+2025-03-19 23:08:40.278 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in logs account
+2025-03-19 23:08:40.278 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.278 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.279 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for logs, its period 5s 
+2025-03-19 23:08:40.280 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-03-19 23:08:40.281 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.281 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.282 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-03-19 23:08:40.283 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-03-19 23:08:40.284 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.284 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.285 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-03-19 23:08:40.286 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in objects account
+2025-03-19 23:08:40.286 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.287 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.287 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for objects, its period 5s 
+2025-03-19 23:08:40.288 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in refs account
+2025-03-19 23:08:40.289 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.289 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.290 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for refs, its period 5s 
+2025-03-19 23:08:40.291 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in remotes account
+2025-03-19 23:08:40.291 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.292 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.292 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for remotes, its period 5s 
+2025-03-19 23:08:40.293 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .github account
+2025-03-19 23:08:40.293 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.294 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.294 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .github, its period 5s 
+2025-03-19 23:08:40.295 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in .vs account
+2025-03-19 23:08:40.295 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.296 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.297 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for .vs, its period 5s 
+2025-03-19 23:08:40.298 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in demosite account
+2025-03-19 23:08:40.298 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.299 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.300 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for demosite, its period 5s 
+2025-03-19 23:08:40.300 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in CopilotIndices account
+2025-03-19 23:08:40.301 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.302 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.303 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for CopilotIndices, its period 5s 
+2025-03-19 23:08:40.304 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in demosite1 account
+2025-03-19 23:08:40.304 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.305 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.305 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for demosite1, its period 5s 
+2025-03-19 23:08:40.306 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in CopilotIndices account
+2025-03-19 23:08:40.307 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.307 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.308 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for CopilotIndices, its period 5s 
+2025-03-19 23:08:40.308 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in img account
+2025-03-19 23:08:40.309 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.310 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.310 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for img, its period 5s 
+2025-03-19 23:08:40.311 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in js account
+2025-03-19 23:08:40.311 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.312 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.312 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for js, its period 5s 
+2025-03-19 23:08:40.313 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in VueApp1 account
+2025-03-19 23:08:40.313 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.314 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.314 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for VueApp1, its period 5s 
+2025-03-19 23:08:40.315 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in vueapp1.client account
+2025-03-19 23:08:40.315 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.316 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.318 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for vueapp1.client, its period 5s 
+2025-03-19 23:08:40.318 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in obj account
+2025-03-19 23:08:40.319 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.319 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.320 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for obj, its period 5s 
+2025-03-19 23:08:40.321 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in src account
+2025-03-19 23:08:40.321 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.322 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.322 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for src, its period 5s 
+2025-03-19 23:08:40.323 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in components account
+2025-03-19 23:08:40.324 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.324 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.325 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for components, its period 5s 
+2025-03-19 23:08:40.325 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in VueApp1.Server account
+2025-03-19 23:08:40.326 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.326 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.327 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for VueApp1.Server, its period 5s 
+2025-03-19 23:08:40.328 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in bin account
+2025-03-19 23:08:40.328 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.328 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.329 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for bin, its period 5s 
+2025-03-19 23:08:40.331 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in Release account
+2025-03-19 23:08:40.332 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.332 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.334 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for Release, its period 5s 
+2025-03-19 23:08:40.334 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in obj account
+2025-03-19 23:08:40.335 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.337 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.339 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for obj, its period 5s 
+2025-03-19 23:08:40.339 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in Debug account
+2025-03-19 23:08:40.340 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.340 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.341 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for Debug, its period 5s 
+2025-03-19 23:08:40.342 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in Release account
+2025-03-19 23:08:40.342 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.343 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.343 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for Release, its period 5s 
+2025-03-19 23:08:40.344 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in net8.0 account
+2025-03-19 23:08:40.345 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.345 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.346 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for net8.0, its period 5s 
+2025-03-19 23:08:40.348 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2025-03-19 23:08:40.349 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2025-03-19 23:08:40.349 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: custom.json
+2025-03-19 23:08:40.349 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Lenovo LOQ\documentation\UNIVERSE\custom.json
+2025-03-19 23:08:40.352 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2025-03-19 23:08:40.353 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(*) load start
+2025-03-19 23:08:40.354 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2025-03-19 23:08:40.359 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2025-03-19 23:08:40.361 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2025-03-19 23:08:40.361 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2025-03-19 23:08:40.361 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2025-03-19 23:08:40.362 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(*) load end
+2025-03-19 23:08:40.362 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400203]cache file auto update thread launch in ... account
+2025-03-19 23:08:40.362 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.DirsConfigReader - [client:400206]parse dir config information
+2025-03-19 23:08:40.363 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.config.MappingConfigReader - [client:400207]parse mapping config information
+2025-03-19 23:08:40.363 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.manager.U2CatalogManager - [client:400202]start a schedule task to get global/local catalog for ..., its period 5s 
+2025-03-19 23:08:40.367 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ServerAccountHandler - [client:40010104]load server account: Account{name=.vs, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.vs, type=PREDICT}
+Account{name=js, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/js, type=PREDICT}
+Account{name=.github, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.github, type=PREDICT}
+Account{name=logs, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git/logs, type=PREDICT}
+Account{name=CopilotIndices, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.vs/demosite1/CopilotIndices, type=PREDICT}
+Account{name=src, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/vueapp1.client/src, type=PREDICT}
+Account{name=refs, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git/logs/refs, type=PREDICT}
+Account{name=Release, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/bin/Release, type=PREDICT}
+Account{name=img, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/img, type=PREDICT}
+Account{name=Release, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/obj/Release, type=PREDICT}
+Account{name=obj, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/obj, type=PREDICT}
+Account{name=vueapp1.client, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/vueapp1.client, type=PREDICT}
+Account{name=refs, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git/refs, type=PREDICT}
+Account{name=obj, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/vueapp1.client/obj, type=PREDICT}
+Account{name=objects, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git/objects, type=PREDICT}
+Account{name=net8.0, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/obj/Release/net8.0, type=PREDICT}
+Account{name=remotes, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git/logs/refs/remotes, type=PREDICT}
+Account{name=Satilik.Shop, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop, type=PREDICT}
+Account{name=bin, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/bin, type=PREDICT}
+Account{name=Debug, path=C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/VueApp1/VueApp1.Server/obj/Debug, type=PREDICT}
+Account{name=..., path=..., type=PREDICT}
+2025-03-19 23:08:40.368 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010105]load account manager finish
+2025-03-19 23:08:40.369 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.userspace.UserspaceManager - [framework:30010402]config file(C:\Users\Lenovo LOQ/.rmv/config) watcher launch successful
+2025-03-19 23:10:43.232 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020201]project documentation update start
+2025-03-19 23:10:43.263 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020202]project documentation update end
+2025-03-19 23:10:43.277 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) reload start
+2025-03-19 23:10:43.283 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) load end
+2025-03-19 23:10:56.654 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020201]project documentation update start
+2025-03-19 23:10:56.655 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020202]project documentation update end
+2025-03-19 23:10:56.656 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) reload start
+2025-03-19 23:10:56.659 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop) load end
+2025-03-19 23:14:02.233 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop)
+2025-03-19 23:17:20.082 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.git)
+2025-03-19 23:17:58.018 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/Satilik.Shop/.jekyll-cache/_site)
